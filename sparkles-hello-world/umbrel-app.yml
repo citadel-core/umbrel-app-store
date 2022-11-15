@@ -1,29 +1,27 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: switch-to-citadel
+name: Citadel
+tagline: Replace Umbrel with Citadel
 icon: https://svgur.com/i/mvA.svg
-category: Development
+category: tools
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+  this app will help you upgrade your Umbrel node to Citadel.
+  
+  Before migrating, you'll be shown a list of incompatible apps and be able to choose if you really want to switch.
+developer: Citadel
+website: https://runcitadel.space
+submitter: Citadel
+submission: https://github.com/citadel-core/umbrel-app-store
+repo: https://github.com/citadel-core/umbrel-to-citadel-ui
+support: https://t.me/runcitadel
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Initial release
 dependencies: []
 path: ""
 defaultUsername: ""
